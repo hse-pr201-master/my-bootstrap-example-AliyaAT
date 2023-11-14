@@ -1,4 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/s0Y_uEY5)
+Абдикаримова Алия 
 Добрый день, профессор, пришлось изрядно потрудиться над установкой Python, нахождением удобной консоли и скачивания всех модулей и пакетов. Работу делала на Visual Studio Code, поэтому не весь код у меня вышел, пришлось внести некоторые изменения
 создала следующий код:
 import numpy as np
