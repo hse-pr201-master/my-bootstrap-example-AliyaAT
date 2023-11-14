@@ -17,5 +17,6 @@ results = bs.conf_int(np.mean, 10000)
 # Display results # инсталирование пипа PS C:\Users\User\Desktop\Python> python -m pip install pandas numpy seaborn
 print("Original Mean:", np.mean(x))
 print("Bootstrap Confidence Interval for Mean:", results)
+В результате бутсрепинга у меня вышли следующие значения средней: 6.1453624464929355, а также доверительный интервал [[4.90589018] [7.39575986]]. В целом мы попадаем в наш доверительный интервал, соответственно можем говорить о значимотис нашей гипотезы о средней 
 
 
